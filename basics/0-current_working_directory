@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "Absolute path name :\n "
-pwd
+echo "Absolute path name :"\npwd\n"
