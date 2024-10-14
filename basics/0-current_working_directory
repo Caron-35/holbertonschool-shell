@@ -1,1 +1,3 @@
 #!/bin/bash
+echo "Absolute path name :\n "
+pwd
